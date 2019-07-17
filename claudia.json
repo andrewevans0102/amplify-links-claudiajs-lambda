@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "amplify-links-executor",
+    "name": "amplify-links",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "e4rrn42jmc",
+    "module": "app"
+  }
+}
